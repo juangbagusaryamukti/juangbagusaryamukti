@@ -21,5 +21,3 @@
 
 <br />
 <br />
-
-[webdev]: https://github.com/juangbagusaryamukti/juangbagusaryamukti
