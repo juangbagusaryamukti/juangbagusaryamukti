@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,xampp,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio" />
     <img src="https://skillicons.dev/icons?i=java,php,html,css,dart,flutter" /><br>
 </div>
 
