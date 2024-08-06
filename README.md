@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=I'm+Juang+Bagus+Arya+Mukti;UI/UX+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 ## About me:
 - 🔭 I'm currently a student at Telkom Malang Vocational School
-- 🌱 I’m currently learning Java and Kotlin
-- 👯 I’m looking to collaborate as Mobile Developer and UI/UX Design
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate as Mobile Developer and UI/UX Designer
 - 🤔 I’m looking for suggest for -
 - 💬 Ask me about anything
 - 📫 How to reach me: juangbagusaryamukti@gmail.com
@@ -16,8 +16,8 @@
 ### Languages and Tools:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=java,php,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,xampp,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,php,html,css,dart,flutter" /><br>
 </div>
 
 <br />
