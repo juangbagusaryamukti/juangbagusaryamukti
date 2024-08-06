@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate as Mobile Developer and UI/UX Design
 - 🤔 I’m looking for suggest for -
 - 💬 Ask me about anything
-- 📫 How to reach me: juang45oke@gmail.com
+- 📫 How to reach me: juangbagusaryamukti@gmail.com
 
 ## Education:
 
@@ -16,8 +16,8 @@
 ### Languages and Tools:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,php,dart,flutter" /><br>
 </div>
 
 <br />
