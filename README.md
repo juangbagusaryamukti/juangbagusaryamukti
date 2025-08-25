@@ -10,7 +10,7 @@
 
 ## Education:
 
- #### 1. [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id/) | RPL | Malang `2023-2025`
+ #### 1. [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id/) | RPL | Malang `2023-2026`
 ---
 
 ### Languages and Tools:
